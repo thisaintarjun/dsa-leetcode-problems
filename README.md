@@ -6,16 +6,19 @@ A collection of my Data Structures &amp; Algorithms (DSA) problems and solutions
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
@@ -27,4 +30,8 @@ A collection of my Data Structures &amp; Algorithms (DSA) problems and solutions
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->

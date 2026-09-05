@@ -11,6 +11,7 @@ A collection of my Data Structures &amp; Algorithms (DSA) problems and solutions
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
@@ -36,6 +37,7 @@ A collection of my Data Structures &amp; Algorithms (DSA) problems and solutions
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
@@ -77,4 +79,12 @@ A collection of my Data Structures &amp; Algorithms (DSA) problems and solutions
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->

@@ -29,6 +29,7 @@ A collection of my Data Structures &amp; Algorithms (DSA) problems and solutions
 | [0701-insert-into-a-binary-search-tree](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of my Data Structures &amp; Algorithms (DSA) problems and solutions
 | [0701-insert-into-a-binary-search-tree](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## DP on Trees
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of my Data Structures &amp; Algorithms (DSA) problems and solutions
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of my Data Structures &amp; Algorithms (DSA) problems and solutions
 | [0450-delete-node-in-a-bst](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -160,4 +164,9 @@ A collection of my Data Structures &amp; Algorithms (DSA) problems and solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thisaintarjun/dsa-leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
